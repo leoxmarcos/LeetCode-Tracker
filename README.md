@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=LeetCode%20Tracker&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A18,100:FFB347&height=200&section=header&text=LeetCode%20Tracker&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/leoxmarcos/LeetCode-Tracker?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/leoxmarcos/LeetCode-Tracker?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/leoxmarcos/LeetCode-Tracker?style=for-the-badge" />
-  <img src="https://img.shields.io/github/repo-size/leoxmarcos/LeetCode-Tracker?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/leoxmarcos/LeetCode-Tracker?style=for-the-badge&color=FF7A18" />
+  <img src="https://img.shields.io/github/forks/leoxmarcos/LeetCode-Tracker?style=for-the-badge&color=FF7A18" />
+  <img src="https://img.shields.io/github/languages/top/leoxmarcos/LeetCode-Tracker?style=for-the-badge&color=FF7A18" />
+  <img src="https://img.shields.io/github/repo-size/leoxmarcos/LeetCode-Tracker?style=for-the-badge&color=FF7A18" />
 </p>
 
 ---
@@ -31,95 +31,8 @@ This repo acts as your **DSA journey logbook** 📒
 
 ## ✨ Key Highlights
 
-🔹 Clean & readable solutions  
-🔹 Difficulty-wise organization  
-🔹 Beginner-friendly structure  
-🔹 Easy to scale and maintain  
-🔹 Perfect for revision & interviews  
-
----
-
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0205-isomorphic-strings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0205-isomorphic-strings/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0205-isomorphic-strings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0205-isomorphic-strings/) | Easy |
-| [2114-maximum-number-of-words-found-in-sentences](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
-| [2114-maximum-number-of-words-found-in-sentences](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
-| [2974-minimum-number-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2974-minimum-number-game/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-| [0144-binary-tree-preorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
-| [0145-binary-tree-postorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-| [0100-same-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0100-same-tree/) | Easy |
-| [0102-binary-tree-level-order-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
-| [0104-maximum-depth-of-binary-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-| [0144-binary-tree-preorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
-| [0145-binary-tree-postorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-| [0100-same-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0100-same-tree/) | Easy |
-| [0104-maximum-depth-of-binary-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-| [0144-binary-tree-preorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
-| [0145-binary-tree-postorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-| [0100-same-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0100-same-tree/) | Easy |
-| [0102-binary-tree-level-order-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
-| [0104-maximum-depth-of-binary-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-| [0144-binary-tree-preorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
-| [0145-binary-tree-postorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0100-same-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0100-same-tree/) | Easy |
-| [0102-binary-tree-level-order-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
-| [0104-maximum-depth-of-binary-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2974-minimum-number-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2974-minimum-number-game/) | Easy |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2974-minimum-number-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2974-minimum-number-game/) | Easy |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2974-minimum-number-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2974-minimum-number-game/) | Easy |
-<!---LeetCode Topics End-->
+🔸 Clean & readable solutions  
+🔸 Difficulty-wise organization  
+🔸 Beginner-friendly structure  
+🔸 Easy to scale and maintain  
+🔸 Perfect for revision & interviews  
