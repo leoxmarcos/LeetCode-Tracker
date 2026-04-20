@@ -87,4 +87,5 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2652-sum-multiples](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2652-sum-multiples/) | Easy |
 <!---LeetCode Topics End-->
