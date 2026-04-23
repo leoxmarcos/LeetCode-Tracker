@@ -51,6 +51,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0205-isomorphic-strings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0205-isomorphic-strings/) | Easy |
 | [0709-to-lower-case](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0709-to-lower-case/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
