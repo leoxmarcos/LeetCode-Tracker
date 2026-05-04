@@ -68,6 +68,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [2942-find-words-containing-character](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3024-type-of-triangle/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [2769-find-the-maximum-achievable-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3024-type-of-triangle](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3024-type-of-triangle/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
