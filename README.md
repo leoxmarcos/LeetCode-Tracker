@@ -65,6 +65,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0066-plus-one/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0496-next-greater-element-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0496-next-greater-element-i/) | Easy |
@@ -83,6 +84,7 @@ This repo acts as your **DSA journey logbook** 📒
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
