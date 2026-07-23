@@ -70,6 +70,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0682-baseball-game/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1550-three-consecutive-odds/) | Easy |
