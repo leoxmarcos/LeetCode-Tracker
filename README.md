@@ -67,6 +67,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0014-longest-common-prefix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0283-move-zeroes/) | Easy |
@@ -88,6 +89,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0283-move-zeroes/) | Easy |
@@ -142,6 +144,7 @@ This repo acts as your **DSA journey logbook** 📒
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0075-sort-colors/) | Medium |
 | [3024-type-of-triangle](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3024-type-of-triangle/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
