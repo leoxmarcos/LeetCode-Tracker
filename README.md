@@ -53,6 +53,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0013-roman-to-integer](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0067-add-binary](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0067-add-binary/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -90,6 +91,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0189-rotate-array/) | Medium |
@@ -182,4 +184,8 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
