@@ -71,6 +71,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [1832-check-if-the-sentence-is-pangram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Array
@@ -164,6 +165,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0075-sort-colors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0242-valid-anagram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3024-type-of-triangle](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3024-type-of-triangle/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
