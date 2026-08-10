@@ -44,6 +44,7 @@ This repo acts as your **DSA journey logbook** 📒
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0205-isomorphic-strings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0242-valid-anagram/) | Easy |
@@ -53,6 +54,7 @@ This repo acts as your **DSA journey logbook** 📒
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0020-valid-parentheses/) | Easy |
@@ -139,6 +141,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0002-add-two-numbers/) | Medium |
+| [0012-integer-to-roman](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0067-add-binary/) | Easy |
