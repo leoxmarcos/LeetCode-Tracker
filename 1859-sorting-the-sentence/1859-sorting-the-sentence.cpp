@@ -36,41 +36,70 @@
 //     }
 // };
 
+// class Solution {
+// public:
+//     string sortSentence(string s) {
+//         vector<string> ans(10);
+//         string temp;
+//         int count = 0;
+//         int index = 0;
+
+//         while (index < s.size()) {
+//             if (s[index] == ' ') {
+//                 int pos = temp.back() - '0';
+//                 temp.pop_back();
+//                 ans[pos] = temp;
+//                 temp.clear();
+//                 count++;
+//                 index++;           // Fixed
+//             } else {
+//                 temp += s[index];
+//                 index++;
+//             }
+//         }
+
+//         int pos = temp.back() - '0';
+//         temp.pop_back();
+//         ans[pos] = temp;
+//         count++;
+
+//         temp.clear();
+
+//         for (int i = 1; i <= count; i++) {
+//             temp += ans[i];
+//             if (i != count)
+//                 temp += ' ';
+//         }
+
+//         return temp;
+//     }
+// };
+
+
+
 class Solution {
 public:
     string sortSentence(string s) {
-        vector<string> ans(10);
-        string temp;
-        int count = 0;
-        int index = 0;
+        vector<pair<int,string>> v;
+        string word;
 
-        while (index < s.size()) {
-            if (s[index] == ' ') {
-                int pos = temp.back() - '0';
-                temp.pop_back();
-                ans[pos] = temp;
-                temp.clear();
-                count++;
-                index++;           // Fixed
+        for(char c : s + ' ') {
+            if(c == ' ') {
+                int pos = word.back() - '0';
+                word.pop_back();
+                v.push_back({pos, word});
+                word.clear();
             } else {
-                temp += s[index];
-                index++;
+                word += c;
             }
         }
 
-        int pos = temp.back() - '0';
-        temp.pop_back();
-        ans[pos] = temp;
-        count++;
+        sort(v.begin(), v.end());
 
-        temp.clear();
+        string ans;
+        for(auto &p : v)
+            ans += (ans.empty() ? "" : " ") + p.second;
 
-        for (int i = 1; i <= count; i++) {
-            temp += ans[i];
-            if (i != count)
-                temp += ' ';
-        }
-
-        return temp;
+        return ans;
     }
 };
