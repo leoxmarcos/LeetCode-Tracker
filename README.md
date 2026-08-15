@@ -69,6 +69,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0171-excel-sheet-column-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0242-valid-anagram/) | Easy |
+| [0392-is-subsequence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -121,6 +122,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0283-move-zeroes/) | Easy |
+| [0392-is-subsequence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0392-is-subsequence/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +211,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0070-climbing-stairs/) | Easy |
+| [0392-is-subsequence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0392-is-subsequence/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
