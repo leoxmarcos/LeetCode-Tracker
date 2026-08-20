@@ -173,6 +173,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0509-fibonacci-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0509-fibonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2652-sum-multiples/) | Easy |
