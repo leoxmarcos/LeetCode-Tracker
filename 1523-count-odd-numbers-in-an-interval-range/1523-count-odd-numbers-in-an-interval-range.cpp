@@ -11,7 +11,7 @@ low++;
 if(high%2==0){
 high--;
 }
-count+=(high-low)/2+1;
+count=(high-low)/2+1;
 
     return count;
 }
