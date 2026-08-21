@@ -78,6 +78,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [1108-defanging-an-ip-address](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1528-shuffle-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -130,6 +131,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0202-happy-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0392-is-subsequence/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
