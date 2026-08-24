@@ -51,6 +51,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0219-contains-duplicate-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0268-missing-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0496-next-greater-element-i/) | Easy |
@@ -103,6 +104,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0219-contains-duplicate-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0283-move-zeroes/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -133,6 +135,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0189-rotate-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0283-move-zeroes/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0392-is-subsequence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Binary Search
@@ -140,6 +143,7 @@ This repo acts as your **DSA journey logbook** 📒
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0268-missing-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +207,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0075-sort-colors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0268-missing-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
