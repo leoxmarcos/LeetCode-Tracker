@@ -87,6 +87,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [1859-sorting-the-sentence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Array
@@ -281,6 +282,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
