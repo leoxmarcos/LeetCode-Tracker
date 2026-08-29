@@ -77,6 +77,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0409-longest-palindrome](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0696-count-binary-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0696-count-binary-substrings/) | Easy |
 | [0709-to-lower-case](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0709-to-lower-case/) | Easy |
 | [0917-reverse-only-letters](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0917-reverse-only-letters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -139,6 +140,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0283-move-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0392-is-subsequence/) | Easy |
+| [0696-count-binary-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0696-count-binary-substrings/) | Easy |
 | [0917-reverse-only-letters](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0917-reverse-only-letters/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Binary Search
