@@ -120,6 +120,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [1848-minimum-distance-to-the-target-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2114-maximum-number-game/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2942-find-words-containing-character/) | Easy |
@@ -143,6 +144,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0696-count-binary-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0696-count-binary-substrings/) | Easy |
 | [0917-reverse-only-letters](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0917-reverse-only-letters/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +233,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0657-robot-return-to-origin](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0682-baseball-game/) | Easy |
 | [1929-concatenation-of-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1929-concatenation-of-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
