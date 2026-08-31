@@ -57,6 +57,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0496-next-greater-element-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0496-next-greater-element-i/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [2798-number-of-employees-who-met-the-target](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2974-minimum-number-game/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3024-type-of-triangle](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Two Pointers
@@ -295,6 +297,7 @@ This repo acts as your **DSA journey logbook** 📒
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
