@@ -9,7 +9,7 @@ public:
 
         for (int i = 0; i < arr.size(); i++) {
 
-            // Skip duplicate values
+    
             if ((f && arr[i] == first) ||
                 (s && arr[i] == second) ||
                 (t && arr[i] == third)) {
@@ -39,7 +39,7 @@ public:
             }
         }
 
-        // If third maximum doesn't exist
+      
         if (!t)
             return first;
 
