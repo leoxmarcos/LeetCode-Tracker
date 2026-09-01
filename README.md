@@ -109,6 +109,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0268-missing-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -219,6 +220,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0242-valid-anagram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
