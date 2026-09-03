@@ -55,6 +55,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0387-first-unique-character-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0496-next-greater-element-i/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -117,6 +118,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0682-baseball-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0682-baseball-game/) | Easy |
 | [1528-shuffle-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -226,6 +228,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0350-intersection-of-two-arrays-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
