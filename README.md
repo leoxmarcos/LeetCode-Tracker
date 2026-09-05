@@ -46,6 +46,7 @@ This repo acts as your **DSA journey logbook** 📒
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0013-roman-to-integer/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -104,6 +105,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0027-remove-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -241,6 +243,7 @@ This repo acts as your **DSA journey logbook** 📒
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
