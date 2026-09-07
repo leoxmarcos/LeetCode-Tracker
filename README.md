@@ -201,6 +201,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0171-excel-sheet-column-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0202-happy-number/) | Easy |
+| [0263-ugly-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0342-power-of-four/) | Easy |
