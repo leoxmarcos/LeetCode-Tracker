@@ -213,6 +213,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [1486-xor-operation-in-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1952-three-divisors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1952-three-divisors/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -380,4 +381,20 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0912-sort-an-array/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1952-three-divisors/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1952-three-divisors/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1952-three-divisors/) | Easy |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
