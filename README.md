@@ -189,6 +189,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0144-binary-tree-preorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +309,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0100-same-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +318,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0100-same-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
