@@ -61,6 +61,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [1832-check-if-the-sentence-is-pangram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [3005-count-elements-with-maximum-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3024-type-of-triangle](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -280,6 +282,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0326-power-of-three](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +398,7 @@ This repo acts as your **DSA journey logbook** 📒
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2427-number-of-common-factors/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
