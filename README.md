@@ -122,6 +122,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0496-next-greater-element-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0682-baseball-game/) | Easy |
+| [0835-image-overlap](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0912-sort-an-array/) | Medium |
 | [1528-shuffle-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1528-shuffle-string/) | Easy |
@@ -263,6 +264,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0835-image-overlap](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
