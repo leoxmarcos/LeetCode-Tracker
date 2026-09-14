@@ -218,6 +218,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0415-add-strings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0836-rectangle-overlap/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -432,4 +433,8 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2427-number-of-common-factors/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
