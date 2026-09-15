@@ -94,6 +94,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [1832-check-if-the-sentence-is-pangram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2942-find-words-containing-character/) | Easy |
@@ -168,6 +169,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0917-reverse-only-letters](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0917-reverse-only-letters/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +299,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0070-climbing-stairs](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0392-is-subsequence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0509-fibonacci-number/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -319,6 +322,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0409-longest-palindrome/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
