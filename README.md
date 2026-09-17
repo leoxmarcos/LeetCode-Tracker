@@ -56,6 +56,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0387-first-unique-character-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0496-next-greater-element-i/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -126,6 +127,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0835-image-overlap](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0912-sort-an-array/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1528-shuffle-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -177,6 +179,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -300,6 +303,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0070-climbing-stairs](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0392-is-subsequence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0509-fibonacci-number/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -346,6 +350,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
