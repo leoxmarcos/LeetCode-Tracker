@@ -114,6 +114,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0066-plus-one](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0189-rotate-array/) | Medium |
@@ -248,6 +249,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0268-missing-number/) | Easy |
@@ -459,4 +461,8 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
