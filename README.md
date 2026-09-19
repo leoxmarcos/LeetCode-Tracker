@@ -227,6 +227,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0628-maximum-product-of-three-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0836-rectangle-overlap/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -453,6 +454,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
