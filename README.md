@@ -65,6 +65,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [3005-count-elements-with-maximum-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3866-first-unique-even-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3866-first-unique-even-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +159,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [3524-find-x-value-of-array-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3866-first-unique-even-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -381,6 +383,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [2248-intersection-of-multiple-arrays](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3866-first-unique-even-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3866-first-unique-even-element/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
