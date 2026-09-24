@@ -160,6 +160,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [3483-unique-3-digit-even-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3866-first-unique-even-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -256,6 +257,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [3232-find-if-digit-game-can-be-won](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
