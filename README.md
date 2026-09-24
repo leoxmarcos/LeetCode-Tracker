@@ -115,6 +115,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0026-remove-duplicates-from-sorted-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0046-permutations](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -489,6 +490,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0078-subsets/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
