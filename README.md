@@ -113,6 +113,7 @@ This repo acts as your **DSA journey logbook** 📒
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0027-remove-element/) | Easy |
@@ -192,6 +193,7 @@ This repo acts as your **DSA journey logbook** 📒
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0268-missing-number/) | Easy |
@@ -419,6 +421,7 @@ This repo acts as your **DSA journey logbook** 📒
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0912-sort-an-array/) | Medium |
