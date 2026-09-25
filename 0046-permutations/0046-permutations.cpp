@@ -36,7 +36,14 @@ public:
     // }
     
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> ans;
+        // vector<vector<int>> ans;
+        // vector<int> temp;
+        // vector<bool> visited(nums.size(), 0);
+        
+        // permut(nums, ans, temp, visited);
+        
+        // return ans;
+          vector<vector<int>> ans;
         
         
         permut(nums,ans,0);
