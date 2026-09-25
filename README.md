@@ -119,6 +119,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0027-remove-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -283,6 +284,7 @@ This repo acts as your **DSA journey logbook** 📒
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0268-missing-number/) | Easy |
@@ -502,6 +504,7 @@ This repo acts as your **DSA journey logbook** 📒
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0078-subsets/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Bracket Sequences
