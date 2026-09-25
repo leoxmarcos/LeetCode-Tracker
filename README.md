@@ -56,6 +56,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0387-first-unique-character-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0496-next-greater-element-i/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -92,6 +93,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0696-count-binary-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0696-count-binary-substrings/) | Easy |
 | [0709-to-lower-case](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0709-to-lower-case/) | Easy |
 | [0917-reverse-only-letters](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0917-reverse-only-letters/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1528-shuffle-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1528-shuffle-string/) | Easy |
@@ -206,6 +208,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0145-binary-tree-postorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0682-baseball-game/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +286,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0414-third-maximum-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0912-sort-an-array/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -369,6 +373,7 @@ This repo acts as your **DSA journey logbook** 📒
 | ------- | ------- |
 | [0100-same-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0101-symmetric-tree/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,6 +497,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0022-generate-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0078-subsets/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
