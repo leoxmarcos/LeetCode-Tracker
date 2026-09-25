@@ -122,6 +122,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0053-maximum-subarray](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0136-single-number/) | Easy |
@@ -195,6 +196,7 @@ This repo acts as your **DSA journey logbook** 📒
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -300,6 +302,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0867-transpose-matrix/) | Easy |
