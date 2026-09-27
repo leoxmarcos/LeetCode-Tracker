@@ -96,6 +96,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0917-reverse-only-letters](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0917-reverse-only-letters/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1528-shuffle-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1678-goal-parser-interpretation/) | Easy |
@@ -217,6 +218,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0496-next-greater-element-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0682-baseball-game/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -514,6 +516,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0022-generate-parentheses/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
