@@ -155,6 +155,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2114-maximum-number-game/) | Easy |
@@ -262,6 +263,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1952-three-divisors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1952-three-divisors/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2427-number-of-common-factors/) | Easy |
@@ -325,6 +327,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0657-robot-return-to-origin](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0867-transpose-matrix/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -339,6 +342,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0326-power-of-three](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0509-fibonacci-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -441,6 +445,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
