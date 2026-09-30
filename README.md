@@ -57,6 +57,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0409-longest-palindrome](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0496-next-greater-element-i/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1346-check-if-n-and-its-double-exist](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -147,6 +148,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0835-image-overlap](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0912-sort-an-array/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1528-shuffle-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -197,6 +199,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0392-is-subsequence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0392-is-subsequence/) | Easy |
 | [0696-count-binary-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0696-count-binary-substrings/) | Easy |
 | [0917-reverse-only-letters](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0917-reverse-only-letters/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -209,6 +212,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -305,6 +309,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0628-maximum-product-of-three-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0912-sort-an-array/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1346-check-if-n-and-its-double-exist](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1859-sorting-the-sentence/) | Easy |
