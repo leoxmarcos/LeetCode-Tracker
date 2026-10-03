@@ -80,6 +80,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0020-valid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0125-valid-palindrome/) | Easy |
@@ -223,6 +224,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -362,6 +364,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0392-is-subsequence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0392-is-subsequence/) | Easy |
@@ -540,6 +543,7 @@ This repo acts as your **DSA journey logbook** 📒
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
