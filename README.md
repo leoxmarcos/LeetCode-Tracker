@@ -97,6 +97,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0678-valid-parenthesis-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0696-count-binary-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0696-count-binary-substrings/) | Easy |
 | [0709-to-lower-case](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0709-to-lower-case/) | Easy |
+| [0856-score-of-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [0917-reverse-only-letters](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0917-reverse-only-letters/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -232,6 +233,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0496-next-greater-element-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0682-baseball-game/) | Easy |
+| [0856-score-of-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -549,6 +551,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0022-generate-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
