@@ -88,6 +88,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0171-excel-sheet-column-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0409-longest-palindrome/) | Easy |
@@ -419,6 +420,7 @@ This repo acts as your **DSA journey logbook** 📒
 | ------- | ------- |
 | [0100-same-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0101-symmetric-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -546,6 +548,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0046-permutations](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0078-subsets/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
