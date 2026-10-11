@@ -177,6 +177,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2974-minimum-number-game/) | Easy |
@@ -518,6 +519,7 @@ This repo acts as your **DSA journey logbook** 📒
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2427-number-of-common-factors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
