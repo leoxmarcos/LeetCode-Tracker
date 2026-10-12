@@ -67,6 +67,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3005-count-elements-with-maximum-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -179,6 +180,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2942-find-words-containing-character](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -317,6 +319,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0342-power-of-four](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0342-power-of-four/) | Easy |
 | [0476-number-complement](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0476-number-complement/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +422,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [1927-sum-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1927-sum-game/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
