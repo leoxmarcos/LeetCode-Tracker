@@ -192,6 +192,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [3525-find-x-value-of-array-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3866-first-unique-even-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -342,6 +343,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [2785-sort-vowels-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3024-type-of-triangle](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3024-type-of-triangle/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,6 +425,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [2333-minimum-sum-of-squared-difference](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
