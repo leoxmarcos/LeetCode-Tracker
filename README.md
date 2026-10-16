@@ -69,6 +69,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [2248-intersection-of-multiple-arrays](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3005-count-elements-with-maximum-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -183,6 +184,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [2798-number-of-employees-who-met-the-target](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2942-find-words-containing-character](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -592,6 +594,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -601,4 +604,5 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 <!---LeetCode Topics End-->
