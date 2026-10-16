@@ -132,6 +132,7 @@ This repo acts as your **DSA journey logbook** 📒
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0027-remove-element/) | Easy |
@@ -205,6 +206,7 @@ This repo acts as your **DSA journey logbook** 📒
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -421,6 +423,7 @@ This repo acts as your **DSA journey logbook** 📒
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0011-container-with-most-water/) | Medium |
 | [0409-longest-palindrome](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
