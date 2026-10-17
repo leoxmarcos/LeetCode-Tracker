@@ -72,6 +72,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3005-count-elements-with-maximum-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3866-first-unique-even-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3866-first-unique-even-element/) | Easy |
 ## String
@@ -196,6 +197,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [3524-find-x-value-of-array-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3866-first-unique-even-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3866-first-unique-even-element/) | Easy |
@@ -350,6 +352,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [2785-sort-vowels-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3024-type-of-triangle](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3024-type-of-triangle/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
