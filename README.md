@@ -129,6 +129,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [3019-number-of-changing-keys](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
