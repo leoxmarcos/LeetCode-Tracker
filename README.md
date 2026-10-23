@@ -202,6 +202,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3866-first-unique-even-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -338,6 +339,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0476-number-complement](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0476-number-complement/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
