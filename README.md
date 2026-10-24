@@ -122,6 +122,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [1859-sorting-the-sentence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1927-sum-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1927-sum-game/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2409-count-days-spent-together](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -311,6 +312,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [1823-find-the-winner-of-the-circular-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1927-sum-game](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1952-three-divisors/) | Easy |
+| [2409-count-days-spent-together](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2409-count-days-spent-together/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2427-number-of-common-factors/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
