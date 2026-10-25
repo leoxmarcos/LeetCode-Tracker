@@ -165,6 +165,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0835-image-overlap](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0912-sort-an-array/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1528-shuffle-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1528-shuffle-string/) | Easy |
@@ -376,6 +377,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0566-reshape-the-matrix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0867-transpose-matrix/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Simulation
@@ -459,6 +461,7 @@ This repo acts as your **DSA journey logbook** 📒
 | ------- | ------- |
 | [0100-same-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0101-symmetric-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -467,6 +470,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0101-symmetric-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0101-symmetric-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -634,6 +638,7 @@ This repo acts as your **DSA journey logbook** 📒
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
