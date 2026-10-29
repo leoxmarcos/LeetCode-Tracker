@@ -130,6 +130,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [3019-number-of-changing-keys](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -206,6 +207,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3866-first-unique-even-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -282,6 +284,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,6 +347,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [1486-xor-operation-in-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -467,6 +471,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0101-symmetric-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0101-symmetric-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -526,6 +531,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0191-number-of-1-bits](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0912-sort-an-array/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -630,6 +636,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -639,6 +646,7 @@ This repo acts as your **DSA journey logbook** 📒
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
