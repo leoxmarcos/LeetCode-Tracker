@@ -11,14 +11,14 @@
 
 ---
 
-## 🚀 LeetCode Tracker
+## 🚀LeetCode Tracker
 
 📘 A visually organized repository to **track, practice, and master LeetCode problems**.  
 Built to help developers stay **consistent**, **motivated**, and **interview-ready**.
 
 ---
 
-## 📌 About This Repository
+## 📌About This Repository
 
 This repo acts as your **DSA journey logbook** 📒
 
