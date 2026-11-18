@@ -212,6 +212,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3866-first-unique-even-element](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -338,6 +339,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/3886-sum-of-sortable-integers/) | Hard |
