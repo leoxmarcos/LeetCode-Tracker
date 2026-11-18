@@ -94,6 +94,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0205-isomorphic-strings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0344-reverse-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0409-longest-palindrome/) | Easy |
@@ -236,6 +237,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0189-rotate-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0344-reverse-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0392-is-subsequence/) | Easy |
 | [0696-count-binary-substrings](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0696-count-binary-substrings/) | Easy |
