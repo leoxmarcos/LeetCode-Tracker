@@ -174,6 +174,7 @@ This repo acts as your **DSA journey logbook** 📒
 | [0912-sort-an-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/0912-sort-an-array/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1470-shuffle-the-array](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1470-shuffle-the-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1528-shuffle-string](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/leoxmarcos/LeetCode-Tracker/tree/main/1550-three-consecutive-odds/) | Easy |
